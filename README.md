@@ -10,7 +10,7 @@ This project aims to explore and develop innovative techniques for identifying A
 
 ### Demo Video for Text Classification
 
-
+https://github.com/dipudl/creator-unmasker/assets/61581457/356d7211-f653-439f-b06f-91c4b94b39d9
 
 AI generated text detection has become an increasingly important field of research due to the sudden increment of machine-generated text across various platforms. With the advent of advanced language models like GPT-4, generating highly realistic and human-like content has become a reality. However, this progress has also led to concerns regarding the misuse of AI-generated content for malicious purposes, such as spreading fake news, misinformation, and spam. Therefore, the development of effective methods for detecting AI-generated content has become highly important in order to mitigate the potential risks associated with its misuse.
 
