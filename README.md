@@ -1,4 +1,4 @@
-# DeepScan: Automatic Bug Detection in C Language
+# Creator Unmasker: Identifying AI-generated and Human-written Texts
 
 This machine learning based project involves automatic classification of AI-generated and Human-crafted texts, and was developed using Python language.
 
